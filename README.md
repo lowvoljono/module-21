@@ -1,6 +1,6 @@
 # Unit 21: Martian Token Crowdsale
 
-![alt=""](Images/application-image.png)
+![Images/application-image.png](https://github.com/lowvoljono/module-21/blob/main/application-image.png)
 
 ## Background
 
